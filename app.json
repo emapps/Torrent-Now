@@ -1,7 +1,7 @@
 {
   "name": "torrent-now",
   "description": "All in one bot for torrenting",
-  "repository": "https://github.com/syedtahseen/torrent-now",
+  "repository": "https://github.com/emapps/Torrent-Now",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "builpacks": [
     { "url": "heroku/nodejs" },
